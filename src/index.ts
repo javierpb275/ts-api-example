@@ -1,3 +1,5 @@
-const clubs = require("../data/clubs.json");
+import createServer from "./server";
 
-console.log(clubs);
+createServer().listen(3000, () => {
+    console.log('listening to port 3000');
+})
