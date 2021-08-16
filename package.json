@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javierpb275/ts-api-example/issues"
   },
-  "homepage": "https://github.com/javierpb275/ts-api-example#readme"
+  "homepage": "https://github.com/javierpb275/ts-api-example#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
